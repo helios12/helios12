@@ -8,7 +8,7 @@
 ### 💡 Core competencies 💡
 * Technology stack:
  - Data Science: python, numpy, pandas, plotly 
- - Web development: .net, asp.net
+ - Web development: c#/.net, asp.net
  - Relational databases: MS SQL Server
 * Soft skills: never stop learning, communication skills, team player, time management
 
