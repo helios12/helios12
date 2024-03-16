@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**helios12/helios12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ About me in 30 seconds ✨ 
+* Data Science: attending a Data Science course at SkillFactory
+* Career: 2003 - present. Started as a software developer, transitioned to a CTO in 2017
+* Education: B.Sc. and M.Sc. in computer science
 
-Here are some ideas to get you started:
+### 💡 Core competencies 💡
+* Technology stack:
+ - Data Science: python, numpy, pandas, plotly 
+ - Web development: .net, asp.net
+ - Relational databases: MS SQL Server
+* Soft skills: never stop learning, communication skills, team player, time management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡️ Currently ⚡️
+* Doing my Data Science course and enjoing it
+* Mastering python on [Codewars](https://www.codewars.com/users/d_golubitsky)
+
+### 🙌🏻 Contact me
+- [Telegram](https://t.me/dmitriygolubitskiy)
